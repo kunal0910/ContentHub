@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:angle="360"
+        android:startColor="#EA96A3"
+        android:endColor="#DD0C0C"
+        android:type="linear" />
+    <corners android:radius="@dimen/buttun_bg_radius" />
+</shape>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108069531479",
+    "project_id": "offstore-de4c1",
+    "storage_bucket": "offstore-de4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108069531479:android:9e536a89c96a9cc8d41812",
+        "android_client_info": {
+          "package_name": "com.kdapps.offstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108069531479-b0pg40nm46vfaiqdtp1vl6se854nbhgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kdapps.offstore",
+            "certificate_hash": "a5d89e7defdc2279ad063916e05aedff84c1b44c"
+          }
+        },
+        {
+          "client_id": "108069531479-bfjuacerbt52amn7q8trg5jqsvd7k0gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBxR3CpbH__jcz5Z132HFq1eAw9r9gq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108069531479-bfjuacerbt52amn7q8trg5jqsvd7k0gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
